@@ -38,5 +38,4 @@
 
 ### 🎇 Appendix
 - 🙌 [Upstage AI Lab Introduction Page](https://fastcampus.co.kr/b2g_kdigitaltraining_ai)
-- 🌲 [Upstage AI Lab Apply Page](https://ousnf7mqsc4.typeform.com/to/FzDOPP4C?typeform-source=fastcampus.co.kr)
 - ✉️ Connection : help.edu@fastcampus.co.kr
