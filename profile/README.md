@@ -8,19 +8,6 @@
 
 
 ### 🖥️ Upstage AI Lab 2기
-#### In Progress
-- **[Upstage]** Computer Vision Generation
-   
-#### Upcoming
-- **[Upstage]** Natural Language Processing Advanced
-- **[Upstage]** NLP Dialogue Summarization Competition
-- **[Upstage]** Natural Language Processing LM TO LLM
-- **[Upstage]** AI Advanced : Data Centric AI
-- **[Upstage]** OCR Detector Competition
-- **[Upstage]** Information Retrieval Competition
-- **[Upstage]** Recommender System Competition
-- **[Upstage]** Anomaly Detection Competition
-- **[FastCampus]** 1 on 1 Career Service
 
 #### Done
 - **[FastCampus]** Statistic
@@ -34,7 +21,19 @@
 - **[Upstage]** Machine Learning Basic/Advanced
 - **[Upstage]** Machine Learning Regression Competition
 - **[Upstage]** Computer Vision Basic/Advanced
-- **[Upstage]** CV Image Classification Competiton
+- **[Upstage]** CV Image Classification Competiton.
+- **[Upstage]** Computer Vision Generation
+- **[Upstage]** Natural Language Processing Advanced
+- **[Upstage]** NLP Dialogue Summarization Competition
+- **[Upstage]** Natural Language Processing LM TO LLM
+- **[Upstage]** AI Advanced : Data Centric AI
+- **[Upstage]** OCR Detector Competition
+- **[Upstage]** Information Retrieval Competition
+- **[Upstage]** Recommender System Competition
+- **[Upstage]** Anomaly Detection Competition
+- **[FastCampus]** 1 on 1 Career Service
+
+
 
 ### 🎇 Appendix
 - 🙌 [Upstage AI Lab Introduction Page](https://fastcampus.co.kr/b2g_kdigitaltraining_ai)
